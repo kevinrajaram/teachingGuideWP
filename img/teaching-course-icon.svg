@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="177px" height="145px" viewBox="0 0 177 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Teaching Course Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="4" y="0" width="138" height="77"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="138" height="77" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <ellipse id="path-3" cx="15.0638298" cy="15.0649351" rx="15.0638298" ry="15.0649351"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M9.9475983e-14,3 C9.9475983e-14,1.34314575 1.34735794,-1.77635684e-15 3.00039696,-1.77635684e-15 L17.9259259,-1.77635684e-15 L17.9259259,6 L3.00039696,6 C1.34332348,6 9.9475983e-14,4.65348288 9.9475983e-14,3 L9.9475983e-14,3 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17.9259259" height="6" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <polygon id="path-7" points="21.7962963 3 17.7222222 5.14285714 17.7222222 0.857142857"></polygon>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.52" y="-0.52" width="5.11407407" height="5.32571429">
+            <rect x="17.2022222" y="0.337142857" width="5.11407407" height="5.32571429" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <polygon id="path-9" points="0.985723877 0 8.99 0.416666667 8.99 4.58333333 0.985723877 5"></polygon>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8.00427612" height="5" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="8.99" y="0.416666667" width="20.01" height="4.16666667"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.01" height="4.16666667" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <polygon id="path-13" points="1 -1.42108547e-14 9 0.416666667 9 4.58333333 1 5"></polygon>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="5" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="9" y="0.5" width="20" height="4"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="4" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+    </defs>
+    <g id="Work-Matters" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Work-Matters-Homepage" transform="translate(-1033.000000, -847.000000)">
+            <g id="Page-icons-section" transform="translate(127.000000, 811.000000)">
+                <g id="Teaching-Course" transform="translate(877.000000, 36.000000)">
+                    <g id="Teaching-Course-Icon" transform="translate(29.000000, 0.000000)">
+                        <ellipse id="Oval-2" fill-opacity="0.109999999" fill="#B2B2B2" cx="112.978723" cy="80.974026" rx="64.0212766" ry="64.025974"></ellipse>
+                        <ellipse id="Oval-2-Copy" fill-opacity="0.129999995" fill="#5E90FF" cx="64.0212766" cy="64.025974" rx="64.0212766" ry="64.025974"></ellipse>
+                        <g id="Site-icon" transform="translate(11.000000, 38.000000)">
+                            <use id="Rectangle-5" stroke-opacity="0.66" stroke="#8993A7" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <rect id="Rectangle-16" fill="#A5ADBB" x="0.305908203" y="77.5" width="144.925781" height="2.5"></rect>
+                            <rect id="Rectangle-13" fill="#F58C76" x="16" y="14" width="74" height="2"></rect>
+                            <rect id="Rectangle-13-Copy" fill="#F58C76" x="16" y="24" width="74" height="1"></rect>
+                            <rect id="Rectangle-13-Copy-2" fill="#5E90FF" x="16" y="33" width="74" height="4"></rect>
+                            <rect id="Rectangle-13-Copy-3" fill="#D4D4D4" x="16" y="45" width="74" height="4"></rect>
+                            <rect id="Rectangle-13-Copy-4" fill="#F58C76" x="16" y="57" width="74" height="4"></rect>
+                            <text id="MM/DD/YYYY" font-family="ProximaNova-Regular, Proxima Nova" font-size="3" font-weight="normal" fill="#000000">
+                                <tspan x="16" y="8">MM/DD/YYYY</tspan>
+                            </text>
+                            <rect id="Rectangle-14" fill="#DEDEDE" x="107" y="13" width="25" height="25"></rect>
+                            <ellipse id="Oval-3" fill="#ADADAD" cx="112.5" cy="34.5" rx="9.5" ry="9.5"></ellipse>
+                            <polygon id="Rectangle-15" fill="#B1B8C5" points="4.33203125 76 141.572632 76 145.231689 77.5 0.305908203 77.5"></polygon>
+                            <g id="Eraser" transform="translate(16.000000, 70.000000)">
+                                <rect id="Rectangle-29" fill="#9B9B9B" x="0" y="0" width="24" height="7" rx="1.20000005"></rect>
+                                <rect id="Rectangle-29" fill="#6E6E6E" x="0" y="2.33333333" width="24" height="4.66666667" rx="1.20000005"></rect>
+                            </g>
+                        </g>
+                        <g id="pencil" transform="translate(128.000000, 27.000000)">
+                            <g id="Plus-button">
+                                <g id="Oval">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <use fill="#5E90FF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                                <ellipse id="Oval" fill="#5483EC" cx="16.6062362" cy="18.1405826" rx="11.5639765" ry="11.564825"></ellipse>
+                            </g>
+                            <g id="Pencil-Icon" transform="translate(16.000000, 16.000000) rotate(-43.000000) translate(-16.000000, -16.000000) translate(5.000000, 13.000000)">
+                                <g id="Group-2" transform="translate(11.000000, 3.000000) rotate(-180.000000) translate(-11.000000, -3.000000) translate(-0.000000, -0.000000)">
+                                    <use id="Rectangle-12" stroke="#8B94A6" mask="url(#mask-6)" stroke-width="1.2" fill="#F58C76" xlink:href="#path-5"></use>
+                                    <g id="Triangle">
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                        <use stroke="#8B94A6" mask="url(#mask-8)" stroke-width="1.04" xlink:href="#path-7"></use>
+                                    </g>
+                                </g>
+                                <path d="M5.05185185,1.97142857 L18.0074074,1.97142857" id="Line" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="square"></path>
+                                <path d="M5.05185185,4.11428571 L14.8771028,4.11428571" id="Line-Copy-2" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="square"></path>
+                            </g>
+                        </g>
+                        <g id="Group-3" transform="translate(65.000000, 110.000000)">
+                            <use id="Rectangle-31" stroke="#6E6E6E" mask="url(#mask-10)" stroke-width="1.69920023" fill="#F58C76" xlink:href="#path-9"></use>
+                            <use id="Rectangle-30" stroke="#6E6E6E" mask="url(#mask-12)" stroke-width="1.69920023" fill="#FFFFFF" xlink:href="#path-11"></use>
+                            <rect id="Rectangle-32" fill="#6E6E6E" x="0" y="0.833333333" width="0.985723877" height="3.33333333"></rect>
+                        </g>
+                        <g id="Group-3" transform="translate(127.500000, 112.500000) rotate(-180.000000) translate(-127.500000, -112.500000) translate(113.000000, 110.000000)">
+                            <use id="Rectangle-31" stroke="#6E6E6E" mask="url(#mask-14)" stroke-width="1.69920023" fill="#5E90FF" xlink:href="#path-13"></use>
+                            <use id="Rectangle-30" stroke="#6E6E6E" mask="url(#mask-16)" stroke-width="1.69920023" fill="#FFFFFF" xlink:href="#path-15"></use>
+                            <rect id="Rectangle-32" fill="#6E6E6E" x="0.300048828" y="1" width="0.67980957" height="3"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

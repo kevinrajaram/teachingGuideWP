@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="177" height="145" viewBox="0 0 177 145">
+  <defs>
+    <rect id="a" width="135" height="80" rx="5"/>
+    <mask id="e" width="135" height="80" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <circle id="b" cx="7" cy="5" r="2"/>
+    <mask id="f" width="4.5" height="4.5" x="-.25" y="-.25">
+      <rect width="4.5" height="4.5" x="4.75" y="2.75" fill="white"/>
+      <use fill="black" xlink:href="#b"/>
+    </mask>
+    <circle id="c" cx="13" cy="5" r="2"/>
+    <mask id="g" width="4.5" height="4.5" x="-.25" y="-.25">
+      <rect width="4.5" height="4.5" x="10.75" y="2.75" fill="white"/>
+      <use fill="black" xlink:href="#c"/>
+    </mask>
+    <circle id="d" cx="19" cy="5" r="2"/>
+    <mask id="h" width="4.5" height="4.5" x="-.25" y="-.25">
+      <rect width="4.5" height="4.5" x="16.75" y="2.75" fill="white"/>
+      <use fill="black" xlink:href="#d"/>
+    </mask>
+    <ellipse id="i" cx="15.064" cy="15.065" rx="15.064" ry="15.065"/>
+    <filter id="j" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <ellipse cx="112.979" cy="80.974" fill="#B2B2B2" fill-opacity=".11" rx="64.021" ry="64.026"/>
+    <ellipse cx="64.021" cy="64.026" fill="#5E90FF" fill-opacity=".13" rx="64.021" ry="64.026"/>
+    <g transform="translate(17 28)">
+      <g transform="translate(0 10)">
+        <use fill="#F2F3F6" stroke="#ACB3C1" stroke-width="4" mask="url(#e)" xlink:href="#a"/>
+        <rect width="133" height="8" x="1" y="2" fill="#ACB3C1"/>
+        <use fill="#EF5E56" xlink:href="#b"/>
+        <use stroke="#EE4A42" stroke-width=".5" mask="url(#f)" xlink:href="#b"/>
+        <use fill="#F7BD40" xlink:href="#c"/>
+        <use stroke="#DFA03B" stroke-width=".5" mask="url(#g)" xlink:href="#c"/>
+        <g>
+          <use fill="#5CCB43" xlink:href="#d"/>
+          <use stroke="#4FAD27" stroke-width=".5" mask="url(#h)" xlink:href="#d"/>
+        </g>
+      </g>
+      <rect width="120" height="25" x="8" y="24" fill="#5E90FF" fill-opacity=".64"/>
+      <rect width="60" height="4" x="8" y="55" fill="#959595"/>
+      <rect width="44" height="4" x="8" y="62" fill="#959595"/>
+      <rect width="50" height="4" x="8" y="69" fill="#959595"/>
+      <rect width="40" height="4" x="8" y="76" fill="#959595"/>
+      <g transform="translate(113)">
+        <mask id="k" fill="white">
+          <use xlink:href="#i"/>
+        </mask>
+        <use fill="black" filter="url(#j)" xlink:href="#i"/>
+        <use fill="#5E90FF" xlink:href="#i"/>
+        <ellipse cx="18.564" cy="18.565" fill="#5483EC" mask="url(#k)" rx="11.564" ry="11.565"/>
+        <g fill="#FFFFFF" mask="url(#k)">
+          <g transform="translate(13.5 6)">
+            <rect width="3" height="11" y="6" rx="1.5"/>
+            <ellipse cx="1.5" cy="1.5" rx="1.5" ry="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

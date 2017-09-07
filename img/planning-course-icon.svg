@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="177" height="145" viewBox="0 0 177 145">
+  <defs>
+    <rect id="a" width="135" height="80" rx="5"/>
+    <mask id="i" width="135" height="80" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <circle id="b" cx="7" cy="5" r="2"/>
+    <mask id="j" width="4.5" height="4.5" x="-.25" y="-.25">
+      <rect width="4.5" height="4.5" x="4.75" y="2.75" fill="white"/>
+      <use fill="black" xlink:href="#b"/>
+    </mask>
+    <circle id="c" cx="13" cy="5" r="2"/>
+    <mask id="k" width="4.5" height="4.5" x="-.25" y="-.25">
+      <rect width="4.5" height="4.5" x="10.75" y="2.75" fill="white"/>
+      <use fill="black" xlink:href="#c"/>
+    </mask>
+    <circle id="d" cx="19" cy="5" r="2"/>
+    <mask id="l" width="4.5" height="4.5" x="-.25" y="-.25">
+      <rect width="4.5" height="4.5" x="16.75" y="2.75" fill="white"/>
+      <use fill="black" xlink:href="#d"/>
+    </mask>
+    <path id="e" d="M0,3.99048369 C0,1.7866004 1.79535615,0 4,0 L4,0 C6.209139,0 8,1.79848428 8,3.99048369 L8,37.2881356 L0,37.2881356 L0,3.99048369 Z"/>
+    <mask id="m" width="8" height="37.288" x="0" y="0" fill="white">
+      <use xlink:href="#e"/>
+    </mask>
+    <polygon id="f" points=".8 37.288 3.86 44 7.2 37.288"/>
+    <mask id="n" width="7.9" height="8.212" x="-.75" y="-.75">
+      <rect width="7.9" height="8.212" x=".05" y="36.538" fill="white"/>
+      <use fill="black" xlink:href="#f"/>
+    </mask>
+    <rect id="g" width=".8" height="22.373" x="5.6" y="14.169"/>
+    <mask id="o" width=".8" height="22.373" x="0" y="0" fill="white">
+      <use xlink:href="#g"/>
+    </mask>
+    <rect id="h" width=".8" height="27.593" x="2.4" y="8.949"/>
+    <mask id="p" width=".8" height="27.593" x="0" y="0" fill="white">
+      <use xlink:href="#h"/>
+    </mask>
+    <ellipse id="q" cx="15.064" cy="15.065" rx="15.064" ry="15.065"/>
+    <filter id="r" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <ellipse cx="112.979" cy="80.974" fill="#B2B2B2" fill-opacity=".11" rx="64.021" ry="64.026"/>
+    <ellipse cx="64.021" cy="64.026" fill="#5E90FF" fill-opacity=".13" rx="64.021" ry="64.026"/>
+    <g transform="translate(17 13)">
+      <g transform="translate(0 25)">
+        <use fill="#F2F3F6" stroke="#ACB3C1" stroke-width="4" mask="url(#i)" xlink:href="#a"/>
+        <rect width="133" height="8" x="1" y="2" fill="#ACB3C1"/>
+        <use fill="#EF5E56" xlink:href="#b"/>
+        <use stroke="#EE4A42" stroke-width=".5" mask="url(#j)" xlink:href="#b"/>
+        <use fill="#F7BD40" xlink:href="#c"/>
+        <use stroke="#DFA03B" stroke-width=".5" mask="url(#k)" xlink:href="#c"/>
+        <g>
+          <use fill="#5CCB43" xlink:href="#d"/>
+          <use stroke="#4FAD27" stroke-width=".5" mask="url(#l)" xlink:href="#d"/>
+        </g>
+      </g>
+      <rect width="120" height="25" x="8" y="39" fill="#5E90FF" fill-opacity=".64"/>
+      <rect width="35" height="28" x="8" y="70" fill="#D8D8D8"/>
+      <rect width="35" height="28" x="50" y="70" fill="#D8D8D8"/>
+      <rect width="35" height="28" x="93" y="70" fill="#D8D8D8"/>
+      <rect width="35" height="6" x="50" y="92" fill="#F58C76"/>
+      <g transform="rotate(38 -17.228 134.887)">
+        <use fill="#F58C76" stroke="#8B94A6" stroke-linejoin="round" stroke-width="1.5" mask="url(#m)" xlink:href="#e"/>
+        <use fill="#F5F7F9" xlink:href="#f"/>
+        <use stroke="#8B94A6" stroke-linejoin="round" stroke-width="1.5" mask="url(#n)" xlink:href="#f"/>
+        <use stroke="#FFFFFF" stroke-width="1.5" mask="url(#o)" xlink:href="#g"/>
+        <use stroke="#FFFFFF" stroke-width="1.5" mask="url(#p)" xlink:href="#h"/>
+      </g>
+      <g transform="translate(106)">
+        <g transform="translate(7.043 14.576)">
+          <path fill="#FFFFFF" stroke="#717171" d="M5.968189,30.1072258 C5.84184622,31.7487053 6.5117423,32.7133698 6.5117423,32.7133698 C7.23029303,34.4842587 9.36497287,35.9441954 11.2803237,35.9742396 L18.228564,36.0832297 C20.1436281,36.1132693 22.3255245,34.7130612 23.0662302,32.9521582 C23.0662302,32.9521582 23.3253667,32.5493645 23.8636968,30.8003411 C24.4020269,29.0513176 6.09453177,28.4657463 5.968189,30.1072258 Z"/>
+          <path fill="#FFFFFF" stroke="#717171" d="M5.64641165,25.4330315 L5.94255423,30.5097317 C5.94255423,30.5097317 10.0648625,32.9042651 15.6136968,32.7054924 C18.2871084,32.6097243 22.0128366,31.9740028 23.9208257,30.5097317 L24.1605718,26.4135002 L5.64641165,25.4330315 Z"/>
+          <mask id="s" fill="white">
+            <use xlink:href="#q"/>
+          </mask>
+          <use fill="black" filter="url(#r)" xlink:href="#q"/>
+          <use fill="#F58C76" xlink:href="#q"/>
+          <ellipse cx="18.564" cy="18.565" fill="#EB6D53" mask="url(#s)" rx="11.564" ry="11.565"/>
+        </g>
+        <path stroke="#F58C76" stroke-linecap="square" stroke-width="2" d="M40 20.363961L45 16M22 9.5L22 .5"/>
+        <path stroke="#F58C76" stroke-linecap="square" stroke-width="2" d="M0.363961031,18.363961 L4.72792206,14" transform="matrix(-1 0 0 1 5.728 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
